@@ -1,12 +1,12 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: GAPI
+title: Accueil
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
-author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
+#author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
-  title: Welcome # as it will appear in the nav
+  title: Accueil # as it will appear in the nav
   order: 1 # order to display in the nav (index = 1)
 seo: # SEO values are used for OG and will overwrite 'title' and 'excerpt' above
   title:
@@ -19,17 +19,17 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: home/plane.jpg # relative to /assets/images/
+    image: jumbotron-bleu.png # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: Is your data lost in the forest,<br>or the trees?
+  headingText: Avez-vous besoin d'aide?
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: This is some pithy text that explains why you should hire us without reading any further... Or is it farther?
+  subheadingText: Nous sommes-là pour vous!
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  buttonText: Contact Us... # no button generated if left blank
+  buttonText: J'ai besoin d'aide # no button generated if left blank
   buttonURL: /contact/ # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor: # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
@@ -43,7 +43,7 @@ heroSettings:
       - home/9.jpg
 ---
 
-We set out to build a starter project template for [11ty](https://11ty.dev '11ty Static Site Generator') that has [TailwindCSS](https://tailwindcss.com 'TailwindCSS Utility-First CSS Framework') and [Alpine.js](https://github.com/alpinejs/alpine 'Alpine.js : Think of it like Tailwind for JavaScript') baked in.
+<!-- We set out to build a starter project template for [11ty](https://11ty.dev '11ty Static Site Generator') that has [TailwindCSS](https://tailwindcss.com 'TailwindCSS Utility-First CSS Framework') and [Alpine.js](https://github.com/alpinejs/alpine 'Alpine.js : Think of it like Tailwind for JavaScript') baked in.
 
 Version 1.0.0 morphed into a fully-configurable text-based CMS for managing small websites with easy-to-manage configuration files in the `/src/_data` directory.
 
@@ -133,4 +133,49 @@ There are several **Shortcodes** _(both single and paired)_ and **Filters** to a
 - Easy add Collections: Projects, Services, Jobs, etc.
 - "Themed" versions for Portfolios/Creatives, Agencies, Digital Gardens, etc.
 - Fully documented migration of Wordpress to 11ty
-- [Snipcart](https://snipcart.com/) integration
+- [Snipcart](https://snipcart.com/) integration -->
+
+
+Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 1987.
+
+Notre organisme a pour but de venir en aide aux hommes ayant un problème d’impulsivité, de contrôle, de violence conjugale ou familiale.
+
+Nous aidons ces hommes :
+
+- à reconnaître leur problème;
+- à arrêter leurs comportements violents;
+- à développer des moyens pour gérer leurs conflits sans violence;
+- à vivre des relations harmonieuses et égalitaires avec leur femme et positives avec leurs enfants.
+
+## J’ai besoin d’aide parce que :
+
+- Je m’interroge sur mon impulsivité et mes comportements;
+- Ma conjointe ou mon conjoint pense à me quitter;
+- J’ai peur que ma violence ait des répercussions négatives sur mes enfants, qu’ils la subissent directement ou qu’ils y soient exposés;
+- Je cherche des trucs, des solutions pour régler des conflits sans que la situation ne dégénère;
+- Je veux en connaître plus sur moi-même et sur la violence conjugale ou familiale;
+- Je veux changer mes comportements;
+- J’aurais dont dû… ;
+- Je souhaite briser mon isolement et partager mon vécu avec d’autres hommes qui vivent le même problème que moi;
+- Je suis « tanné » de perdre les gens que j’aime;
+- Je veux être mieux dans ma peau;
+- La violence ne m’apporte que des problèmes;
+- Je ne me comprends plus.
+
+## Information sur la problématique
+
+### Définition de la violence
+
+##### Relation conjugale
+
+Relation entre deux personnes qui vivent (ou ont vécu) une union affective (fréquentation, mariage, union de fait), nonobstant l’orientation sexuelle.
+
+##### Violence conjugale
+
+Contrôle exercé par une personne auprès d’une autre personne à l’intérieur d’une relation conjugale. Ce contrôle peut se manifester par des comportements, des gestes, des paroles ou des attitudes qui sont répétés et continus dans le temps.
+
+La violence est construite (apprise) socialement (valeurs véhiculées). Elle est cependant choisie individuellement puisque tout individu est responsable à 100 % des comportements, gestes, paroles et attitudes qu’il (elle) adopte.
+
+La violence est un problème social et la violence conjugale en est une manifestation largement répandue.
+
+![Le Gapi](/assets/images/gapi-entete2.jpg "Le Gapi")
