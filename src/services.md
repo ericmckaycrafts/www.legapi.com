@@ -46,8 +46,6 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
-###### 
-
 ### L’accueil-évaluation
 
 La démarche commence par 3 rencontres individuelles d’accueil-évaluation d’environ 1h30 avec un intervenant.
@@ -162,13 +160,13 @@ Inscription préalable avant chaque rencontre.
 
 L’équipe d’intervention peut t’aider à trouver diverses ressources pour combler des besoins autres et divers pour toi ou pour tes proches. N’hésite pas à demander.
 
-Voici tout de même quelques ressources :
+<!-- Voici tout de même quelques ressources :
 
 - À cœur d’homme (pour trouver un organisme comme le nôtre à travers la province de Québec) [acoeurdhomme.com](https://www.acoeurdhomme.com/)
 - Centre de crise de Québec [centredecrise.com](http://centredecrise.com/) 418-688-4240
 - Centre de prévention suicide de Québec [cpsquebec.ca](http://cpsquebec.ca/) 1-866-APPELLE
 - 211 [211quebecregions.ca](http://211quebecregions.ca/)
-- Info-Social 811
+- Info-Social 811 -->
 
 ### Pour les proches
 
