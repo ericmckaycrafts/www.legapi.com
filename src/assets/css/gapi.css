@@ -2,6 +2,14 @@ h1 {
     color: #1a202c;
 }
 
+h2 {
+    color: #1a202c;
+    border-bottom-width: 2px !important;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e2e8f0
+}
+
 h3 {
     margin-top: 1em;
 }

@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3 # order to display in the nav
 seo:
   title: Nos services
-  description: Comment ça marche?
+  description: Tu souhaites amorcer ta demande d’aide? Voici comment ça fonctionne.
   image: /assets/images/jumbotron.jpg
 ---
 
@@ -46,7 +46,7 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
-###### Tu souhaites amorcer ta demande d’aide? Voici comment ça fonctionne.
+###### 
 
 ### L’accueil-évaluation
 

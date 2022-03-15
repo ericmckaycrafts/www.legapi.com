@@ -8,13 +8,19 @@ tags: pages
 
     <article class="{{ structure.g_pageWidth }}">
 
-      <h1>{{ seo.title or title }}</h1>
+      {# <h1 class="p-2 shadow-md border border-indego-300 {{ colors.borderCustom.borders or colors.borderDefault.borders }} {{ colors.borderCustom.color or colors.borderDefault.color }}">{{ seo.title or title }}</h1> #}
+      <h1 class=" {{ colors.borderCustom.borders or colors.borderDefault.borders }} {{ colors.borderCustom.color or colors.borderDefault.color }}">{{ seo.title or title }}</h1>
+
+    
+
+
+      {# font-extrabold border rounded-lg border-indego-300 p-2 bg-gray-200 #}
 
       {% if seo.description %}
-        <div class="p-2 {{ colors.borderCustom.borders or colors.borderDefault.borders }} {{ colors.borderCustom.color or colors.borderDefault.color }}">
+        <h4 class="pt-4 text-indigo-800">
           {{ seo.description }}
-        </div>
-      {% endif %}
+        </h4>
+      {% endif %} 
 
       {{ content | safe }}
 
