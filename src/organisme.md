@@ -1,21 +1,36 @@
 ---
-title: Blog
+title: Qui sommes-nous?
 date: 2020-08-05
 description: The Posts List display is controled in /src/_data/structure.js and ships with 4 options.
 layout: page
 eleventyNavigation:
   key: main
   title: Notre organisme #  as it will appear in the nav
-  order: 3    # order to display in the nav
+  order: 2    # order to display in the nav
 seo:
   title: Notre organisme
-  description: 
+  description: Qui sommes-nous?
 pagination:
   data: collections.post 
   size: 12
   reverse: true
   alias: posts
 ---
+
+## Principes
+
+### Nous croyons…
+
+- Que personne ne mérite de vivre de la violence et que cela a des conséquences pour tous.
+- Que la sécurité de chacun doit être au cœur de nos interventions. 
+- Que toute personne a le potentiel d’apporter des changements positifs dans sa vie.
+- Que la violence est apprise et construite. Il est donc possible de la remettre en question et de développer des alternatives pour la personne qui l’exerce. 
+
+### Nous t’offrons…
+
+- Un accueil et des interventions guidées par le respect mutuel.
+- Une évaluation consciencieuse et approfondie de chaque situation.
+- Des interventions professionnelles.  
 
 ## Mandat et objectifs
 
@@ -35,3 +50,29 @@ L’objectif ultime que le GAPI se doit d’atteindre est celui de contribuer, a
 - Participer avec nos partenaires à la définition et à la distribution de services alternatifs et complémentaires en rapport avec la problématique de la violence conjugale;
 - Participer à la conscientisation populaire sur la nécessité de refondre les valeurs sociales sous-jacentes aux rapports de domination et de violence;
 - Établir et promouvoir des rapports égalitaires entre les hommes et les femmes ainsi que dans toutes les formes de relations amoureuses.
+
+## L’équipe d’intervention
+
+Notre équipe est composée de professionnels issus de diverses spécialisations : travail social, criminologie, orientation, etc.
+
+Ils possèdent tous des formations spécifiques à notre domaine d’expertise:
+
+- Directrice générale, Valérie Meunier
+- Adjointe administrative, Marie-Ève Soucy
+- Coordonateur clinique, Olivier Lizotte-Audy
+- Intervenants(es) communautaires Jonathan Charrette
+- Sabrina Gagnon, t.s.
+- Anne-Marie Grenier, t.s.
+- Hugo Savard-Dolbec, t.s.
+- Alexandre Zameck
+- Intervenants. es de groupe, Michael-John Blais, sexo.
+- Louis-François Dallaire, t.s.
+- Florence Gagnon
+- Christine Jones-Vallée
+- Caroline Hamelin, t.s.
+- Pascale Lavoie, t.s.
+- François LeMay
+- Catherine Mercier, crim.
+- Sabrina Nadeau
+- Patricia Rhéaume
+

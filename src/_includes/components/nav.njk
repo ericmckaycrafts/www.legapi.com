@@ -11,7 +11,10 @@
           {# large logo hidden on small, block on md #}
           <a aria-label="Desktop Logo" href="/" class="hidden md:block {{ colors.logoCustom.desktop or colors.logoDefault.desktop }} hover:{{ colors.logoCustom.hover or colors.logoDefault.hover }}" alt="Desktop Logo">
             {# {% svg "logo", "fill-current h-8 hover:{{ colors.logoCustom.hover or colors.logoDefault.hover }}", "The Logo" %} #}
-            <span style="font-size:2em; font-weight:bold;">Le Gapi</span>
+            <span style="font-size:2em; font-weight:bold;">
+              <!-- Le Gapi -->
+              <img src='/assets/images/gapi/logo.png'>
+              </span>
           </a>
         </div>
         <div class="hidden sm:ml-6 sm:flex sm:items-center">
