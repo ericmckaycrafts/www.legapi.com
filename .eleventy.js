@@ -4,6 +4,7 @@ const pluginNavigation = require('@11ty/eleventy-navigation')
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const pluginSvgSprite = require("eleventy-plugin-svg-sprite");
 const markdownIt = require('markdown-it')
+const markdownItAttrs = require('markdown-it-attrs')
 const markdownItEmoji = require('markdown-it-emoji')
 
 // const collections = require('./utils/collections.js')
@@ -140,10 +141,18 @@ module.exports = function (eleventyConfig) {
 		html: true,
 		breaks: true,
 		linkify: true,
-		typographer: true,
+		typographer: true
 	}
-	let markdownLib = markdownIt(options).use(markdownItEmoji)
+
+	let markdownLib = markdownIt(options).use(markdownItAttrs, {
+		// optional, these are default options
+		leftDelimiter: '{',
+		rightDelimiter: '}',
+		allowedAttributes: []  // empty array = all attributes are allowed
+	  });
+
 	eleventyConfig.setLibrary('md', markdownLib)
+	
 
 	/**
 	 * Add layout aliases
