@@ -36,7 +36,7 @@ pagination:
 
 ## Mandat et objectifs
 
-![Le Gapi](/assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2}
+![Le Gapi](/assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2 .border .rounded-lg}
 
 ### Mandat
 
@@ -59,7 +59,7 @@ L’objectif ultime que le GAPI se doit d’atteindre est celui de contribuer, a
 
 Notre équipe est composée de professionnels issus de diverses spécialisations : travail social, criminologie, orientation, etc.
 
-![Le Gapi](/assets/images/gapi/equipe.jpg "Le Gapi"){.width-100}
+![Le Gapi](/assets/images/gapi/equipe.jpg "Le Gapi"){.border .rounded-lg}
 
 Ils possèdent tous des formations spécifiques à notre domaine d’expertise:
 

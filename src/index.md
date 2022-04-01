@@ -140,7 +140,7 @@ Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 19
 | ------- | ------- |
 |  | row1 col2 | -->
 
-![Le Gapi](/assets/images/gapi/Illustration_01.jpg "Le Gapi")
+![Le Gapi](/assets/images/gapi/Illustration_01.jpg "Le Gapi"){.border .rounded-lg}
 
 
 ###### Le GAPI est un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987.{.hero-title}
@@ -158,6 +158,8 @@ Nous intervenons auprès d’hommes adultes ayant des comportements violents dan
 - Développer des moyens pour gérer leurs conflits sans violence
 - Vivre des relations harmonieuses, égalitaires et positives avec leurs proches
 
+[En savoir plus](/services){.call-to-action}
+
 Au plan social et avec nos partenaires, nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
 
 ![Le Gapi](/assets/images/gapi/outils.jpg "Le Gapi")
@@ -166,7 +168,7 @@ Nous travaillons de façon concertée avec plusieurs partenaires afin d’offrir
 
 De plus, nous maintenons une implication active à divers projets de recherche dans une perspective d’amélioration des pratiques et des connaissances.
 
-[En savoir plus](/services){.call-to-action}
+
 
 
 

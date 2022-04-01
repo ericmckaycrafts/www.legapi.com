@@ -89,7 +89,7 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 
 ---{.clearAll}
 
-![Le Gapi](/assets/images/gapi/groupe.jpg "Le Gapi")
+![Le Gapi](/assets/images/gapi/groupe.jpg "Le Gapi"){.border .rounded-lg}
 
 ### La démarche de groupe, c’est…
 
@@ -118,8 +118,6 @@ La démarche de groupe a lieu les mardis soirs à Pont-Rouge.
 
 Pour prendre rendez-vous, simplement à nous contacter au bureau de Québec en mentionnant que vous êtes dans la région de Portneuf.  
 
-![Le Gapi](/assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi")
-
 ## En attendant
 
 Entre la fin du processus d’accueil-évaluation et le début de la démarche de groupe, tu peux obtenir du soutien et demeurer en action.
@@ -146,6 +144,8 @@ Groupe fermé de 12 rencontres s’adressant aux pères ou beaux-pères voulant 
 - Pour mieux cerner les comportements, les attitudes de violence et leurs impacts.
 - Pour se centrer sur des solutions tenant compte des besoins et du mieux-être des enfants.
 - Pour jouer un rôle plus sain comme père, dans une volonté de reconstruction des liens avec les enfants et leur mère. 
+
+![Le Gapi](/assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi"){.border .rounded-lg}
 
 ## Encore quelques besoins
 

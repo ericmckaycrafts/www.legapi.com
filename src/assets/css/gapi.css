@@ -58,13 +58,13 @@ a.call-to-action:hover {
 .hero-img {
     width: 35%;
     float: left;
-    padding-right: 2em;
+    margin-right: 2em;
 }
 
 .hero-img-2 {
     width: 45%;
     float: left;
-    padding-right: 2em;
+    margin-right: 2em;
 }
 
 .hero-title {
