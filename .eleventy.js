@@ -6,6 +6,8 @@ const pluginSvgSprite = require("eleventy-plugin-svg-sprite");
 const markdownIt = require('markdown-it')
 const markdownItAttrs = require('markdown-it-attrs')
 const markdownItEmoji = require('markdown-it-emoji')
+// const markdownItTable = require('markdown-it-multimd-table');
+const { markdownItTable } = require('markdown-it-table');
 
 // const collections = require('./utils/collections.js')
 const filters = require('./utils/filters.js')
@@ -130,29 +132,25 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/assets/video/')
 
 	/**
-	 * Set custom markdown library instance...
-	 * and support for Emojis in markdown...
-	 * ...because why not control our .MD files and have Emojis built in?
-	 * @link https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
-	 * @link https://www.npmjs.com/package/markdown-it-emoji
-	 *
+	 * Set custom markdown library instance
 	 */
-	let options = {
+	let markdownLib = markdownIt({
 		html: true,
 		breaks: true,
 		linkify: true,
 		typographer: true
-	}
-
-	let markdownLib = markdownIt(options).use(markdownItAttrs, {
-		// optional, these are default options
+	})
+	.use(markdownItTable, {
+		// optional
+	})
+	.use(markdownItAttrs, {
+		// optional
 		leftDelimiter: '{',
 		rightDelimiter: '}',
 		allowedAttributes: []  // empty array = all attributes are allowed
-	  });
+	});
 
 	eleventyConfig.setLibrary('md', markdownLib)
-	
 
 	/**
 	 * Add layout aliases

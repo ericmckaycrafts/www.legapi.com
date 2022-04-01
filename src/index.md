@@ -1,6 +1,6 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: 
+title: Bienvenue au GAPI
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 #author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
@@ -8,7 +8,32 @@ eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
   title: Accueil # as it will appear in the nav
   order: 1 # order to display in the nav (index = 1)
-
+# hero: graphic # options: carousel, graphic, video, split (text & image)
+# heroSettings:
+#   bg:
+#     # color: # default bg-black
+#     image: gapi/Illustration_01.jpg # relative to /assets/images/
+#     # imagePosition: # options = bg-center (default), bg-left, bg-right
+#     # video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
+#     # opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
+#     # opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
+#   headingText: Is your data lost in the forest,<br>or the trees?
+#   #headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
+#   #headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
+#   subheadingText: This is some pithy text that explains why you should hire us without reading any further... Or is it farther?
+#   # subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
+#   buttonText: Contact Us... # no button generated if left blank
+#   buttonURL: /contact/ # full url required. Example: https://thisdomain.com/somepage/
+#   #buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
+#   #buttonBgColor: # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
+#   #buttonBgHover: # leave blank to inherit from /src/_data/colors.buttonCustom.bgHover or buttonDefault.bgHover
+#   #buttonBorder: # leave blank to inherit from /src/_data/colors.buttonCustom.border or buttonDefault.border
+#   #carousel:
+#    # images:
+#     #  - home/6.jpg
+#     #  - home/7.jpg
+#     #  - home/8.jpg
+    #  - home/9.jpg
 ---
 
 <!-- We set out to build a starter project template for [11ty](https://11ty.dev '11ty Static Site Generator') that has [TailwindCSS](https://tailwindcss.com 'TailwindCSS Utility-First CSS Framework') and [Alpine.js](https://github.com/alpinejs/alpine 'Alpine.js : Think of it like Tailwind for JavaScript') baked in.
@@ -111,12 +136,20 @@ Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 19
 ![Le Gapi](/assets/images/gapi/GAPI-LOGO-V-COUL.png "Le Gapi")
 
 -->
+<!-- | HDR1 | HDR2 |
+| ------- | ------- |
+|  | row1 col2 | -->
 
-![Le Gapi](/assets/images/gapi-entete2.jpg "Le Gapi")
+![Le Gapi](/assets/images/gapi/Illustration_01.jpg "Le Gapi")
 
-###### Le GAPI est un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987. {.call-to-action}
 
-Nous intervenons auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial, peu importe le type d’union ou la situation.
+###### Le GAPI est un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987.{.hero-title}
+
+Nous intervenons auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial, peu importe le type d’union ou la situation.{.hero-text}
+
+<!-- ![Le Gapi](/assets/images/gapi/GAPI-LOGO-V-COUL.png "Le Gapi"){.hero-sub-img} -->
+
+---{.clearAll}
 
 ### Nous aidons ces personnes à :
 
@@ -127,11 +160,15 @@ Nous intervenons auprès d’hommes adultes ayant des comportements violents dan
 
 Au plan social et avec nos partenaires, nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
 
+![Le Gapi](/assets/images/gapi/outils.jpg "Le Gapi")
+
 Nous travaillons de façon concertée avec plusieurs partenaires afin d’offrir des interventions ajustées, cohérentes et tenant compte de contextes parfois complexes.
 
 De plus, nous maintenons une implication active à divers projets de recherche dans une perspective d’amélioration des pratiques et des connaissances.
 
 [En savoir plus](/services){.call-to-action}
+
+
 
 <!----
 ## J’ai besoin d’aide parce que :

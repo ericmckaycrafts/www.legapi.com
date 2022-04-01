@@ -9,13 +9,15 @@ eleventyNavigation:
   order: 2    # order to display in the nav
 seo:
   title: Notre organisme
-  description: Qui sommes-nous?
+  #description: Qui sommes-nous?
 pagination:
   data: collections.post 
   size: 12
   reverse: true
   alias: posts
 ---
+
+![Le Gapi](/assets/images/gapi/silhouettes.jpg "Le Gapi"){.hero-img-right}
 
 ## Principes
 
@@ -33,6 +35,8 @@ pagination:
 - Des interventions professionnelles.  
 
 ## Mandat et objectifs
+
+![Le Gapi](/assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2}
 
 ### Mandat
 
@@ -55,6 +59,8 @@ L’objectif ultime que le GAPI se doit d’atteindre est celui de contribuer, a
 
 Notre équipe est composée de professionnels issus de diverses spécialisations : travail social, criminologie, orientation, etc.
 
+![Le Gapi](/assets/images/gapi/equipe.jpg "Le Gapi"){.width-100}
+
 Ils possèdent tous des formations spécifiques à notre domaine d’expertise:
 
 - Directrice générale, Valérie Meunier
@@ -75,4 +81,3 @@ Ils possèdent tous des formations spécifiques à notre domaine d’expertise:
 - Catherine Mercier, crim.
 - Sabrina Nadeau
 - Patricia Rhéaume
-

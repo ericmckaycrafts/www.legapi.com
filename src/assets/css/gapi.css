@@ -1,13 +1,28 @@
+@font-face {
+    font-family: toto;
+    /* src: url(/assets/images/gapi/ARTHISTORYBOOK.otf); */
+    src: url(/assets/images/gapi/CatieJackDemoRegular.ttf);
+  }
+
+img {
+    /* border: 1px solid #486381; */
+    width:100%;
+}
+
 h1 {
-    color: #1a202c;
+    font-family: toto;
+    color: #486381;
+    font-size: 3em;
 }
 
 h2 {
-    color: #1a202c;
+
+    color: #486381;
     border-bottom-width: 2px !important;
     border-width: 0;
     border-style: solid;
-    border-color: #e2e8f0
+    /* border-color: #e2e8f0; */
+    border-color: #92abc6;
 }
 
 h3 {
@@ -38,4 +53,46 @@ a.call-to-action:hover {
     background-color: #234e52;
     border-color: yellow;
     color: yellow;
+}
+
+.hero-img {
+    width: 35%;
+    float: left;
+    padding-right: 2em;
+}
+
+.hero-img-2 {
+    width: 45%;
+    float: left;
+    padding-right: 2em;
+}
+
+.hero-title {
+    font-size: 1.5em;
+}
+
+.hero-text {
+    font-size: 1.2em;
+}
+
+.hero-sub-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 64px;
+}
+
+.clearAll {
+    visibility: hidden;
+    clear: both;
+}
+
+.hero-img-right {
+    width: 35%;
+    float: right;
+    padding-right: 2em;
+}
+
+.width-100 {
+    width: 100%;
 }

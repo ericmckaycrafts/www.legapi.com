@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3 # order to display in the nav
 seo:
   title: Nos services
-  description: Tu souhaites amorcer ta demande d’aide? Voici comment ça fonctionne.
+  #description: Tu souhaites amorcer ta demande d’aide? Voici comment ça fonctionne.
   image: /assets/images/jumbotron.jpg
 ---
 
@@ -46,6 +46,8 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
+![Le Gapi](/assets/images/gapi/hero.jpg "Le Gapi"){.hero-img-right}
+
 ### L’accueil-évaluation
 
 La démarche commence par 3 rencontres individuelles d’accueil-évaluation d’environ 1h30 avec un intervenant.
@@ -74,6 +76,8 @@ Les rencontres se font majoritairement en présence, mais peuvent aussi se faire
 
 ## Le groupe
 
+
+
 Il s’agit du cœur de ta démarche et de notre mode d’intervention privilégié.
 
 - Pour apprendre à te voir aller, à désamorcer les escalades et à éviter les récidives.
@@ -82,6 +86,10 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 - Pour mieux identifier ce que tu vis et en arriver à t’affirmer plus sainement.
 - Pour partager avec d’autres hommes vivant des situations semblables, s’entraider et trouver ensemble des solutions.
 - Pour en venir à vivre en cohérence avec tes valeurs.
+
+---{.clearAll}
+
+![Le Gapi](/assets/images/gapi/groupe.jpg "Le Gapi")
 
 ### La démarche de groupe, c’est…
 
@@ -109,6 +117,8 @@ Les rencontres d’accueil-évaluation sont possibles dans les 4 principaux poin
 La démarche de groupe a lieu les mardis soirs à Pont-Rouge.
 
 Pour prendre rendez-vous, simplement à nous contacter au bureau de Québec en mentionnant que vous êtes dans la région de Portneuf.  
+
+![Le Gapi](/assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi")
 
 ## En attendant
 
