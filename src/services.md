@@ -5,11 +5,13 @@ layout: page
 eleventyNavigation:
   key: main
   title: Nos services # as it will appear in the nav
+  url: services
   order: 3 # order to display in the nav
 seo:
   title: Nos services
   #description: Tu souhaites amorcer ta demande d’aide? Voici comment ça fonctionne.
   image: /assets/images/jumbotron.jpg
+relative_prefix: ../
 ---
 
 <!-- {% wrap "bg-red-100 mt-4 border border-red-300 rounded-lg underline" %}
@@ -46,7 +48,7 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
-![Le Gapi](/assets/images/gapi/hero.jpg "Le Gapi"){.hero-img-right}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/hero.jpg "Le Gapi"){.hero-img-right}
 
 ### L’accueil-évaluation
 
@@ -76,8 +78,6 @@ Les rencontres se font majoritairement en présence, mais peuvent aussi se faire
 
 ## Le groupe
 
-
-
 Il s’agit du cœur de ta démarche et de notre mode d’intervention privilégié.
 
 - Pour apprendre à te voir aller, à désamorcer les escalades et à éviter les récidives.
@@ -89,7 +89,7 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 
 ---{.clearAll}
 
-![Le Gapi](/assets/images/gapi/groupe.jpg "Le Gapi"){.border .rounded-lg}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/groupe.jpg "Le Gapi"){.border .border-dark}
 
 ### La démarche de groupe, c’est…
 
@@ -145,7 +145,7 @@ Groupe fermé de 12 rencontres s’adressant aux pères ou beaux-pères voulant 
 - Pour se centrer sur des solutions tenant compte des besoins et du mieux-être des enfants.
 - Pour jouer un rôle plus sain comme père, dans une volonté de reconstruction des liens avec les enfants et leur mère. 
 
-![Le Gapi](/assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi"){.border .rounded-lg}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi")
 
 ## Encore quelques besoins
 

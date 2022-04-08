@@ -6,6 +6,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Notre organisme #  as it will appear in the nav
+  url: organisme
   order: 2    # order to display in the nav
 seo:
   title: Notre organisme
@@ -15,9 +16,10 @@ pagination:
   size: 12
   reverse: true
   alias: posts
+relative_prefix: ../
 ---
 
-![Le Gapi](/assets/images/gapi/silhouettes.jpg "Le Gapi"){.hero-img-right}
+![Le Gapi]({{relative_prefix}}assets/images/gapi/silhouettes.jpg "Le Gapi"){.hero-img-right}
 
 ## Principes
 
@@ -36,7 +38,7 @@ pagination:
 
 ## Mandat et objectifs
 
-![Le Gapi](/assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2 .border .rounded-lg}
+![Le Gapi]({{relative_prefix}}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2 .border}
 
 ### Mandat
 
@@ -59,7 +61,7 @@ L’objectif ultime que le GAPI se doit d’atteindre est celui de contribuer, a
 
 Notre équipe est composée de professionnels issus de diverses spécialisations : travail social, criminologie, orientation, etc.
 
-![Le Gapi](/assets/images/gapi/equipe.jpg "Le Gapi"){.border .rounded-lg}
+![Le Gapi]({{relative_prefix}}assets/images/gapi/equipe.jpg "Le Gapi"){.border}
 
 Ils possèdent tous des formations spécifiques à notre domaine d’expertise:
 

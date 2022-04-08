@@ -1,5 +1,6 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
+relative_prefix: ""
 title: Bienvenue au GAPI
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
@@ -8,6 +9,7 @@ eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
   title: Accueil # as it will appear in the nav
   order: 1 # order to display in the nav (index = 1)
+  url: index.html
 # hero: graphic # options: carousel, graphic, video, split (text & image)
 # heroSettings:
 #   bg:
@@ -140,14 +142,14 @@ Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 19
 | ------- | ------- |
 |  | row1 col2 | -->
 
-![Le Gapi](/assets/images/gapi/Illustration_01.jpg "Le Gapi"){.border .rounded-lg}
+![Le Gapi](assets/images/gapi/Illustration_01.jpg "Le Gapi"){.border .border-dark}
 
 
 ###### Le GAPI est un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987.{.hero-title}
 
 Nous intervenons auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial, peu importe le type d’union ou la situation.{.hero-text}
 
-<!-- ![Le Gapi](/assets/images/gapi/GAPI-LOGO-V-COUL.png "Le Gapi"){.hero-sub-img} -->
+<!-- ![Le Gapi](assets/images/gapi/GAPI-LOGO-V-COUL.png "Le Gapi"){.hero-sub-img} -->
 
 ---{.clearAll}
 
@@ -158,11 +160,11 @@ Nous intervenons auprès d’hommes adultes ayant des comportements violents dan
 - Développer des moyens pour gérer leurs conflits sans violence
 - Vivre des relations harmonieuses, égalitaires et positives avec leurs proches
 
-[En savoir plus](/services){.call-to-action}
+[En savoir plus](services){.call-to-action}
 
 Au plan social et avec nos partenaires, nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
 
-![Le Gapi](/assets/images/gapi/outils.jpg "Le Gapi")
+![Le Gapi](assets/images/gapi/outils.jpg "Le Gapi")
 
 Nous travaillons de façon concertée avec plusieurs partenaires afin d’offrir des interventions ajustées, cohérentes et tenant compte de contextes parfois complexes.
 

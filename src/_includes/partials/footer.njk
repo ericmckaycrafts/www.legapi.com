@@ -1,8 +1,9 @@
 <footer>
-  <div class="{{ colors.footerCustom.barBg or colors.footerDefault.barBg }}" style="padding-bottom:61px;">
+  {# class="{{ colors.footerCustom.barBg or colors.footerDefault.barBg }}" #}
+  <div  style="padding-bottom:61px;">
     <div class="max-w-screen-xl px-4 py-6 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
       <div class="flex md:order-2 {{ colors.socialIconsCustom or colors.socialIconsDefault }}">
-        <img src="/assets/images/gapi/GAPI-LOGO-V-BLANC.png" style="width: 135px;">
+        <img src="{{relative_prefix}}assets/images/gapi/GAPI-LOGO-V-BLANC.png" style="width: 135px;">
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
         <section class="text-base text-gray-100">
