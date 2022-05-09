@@ -1,4 +1,15 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("/assets/images/fonts/Roboto-Regular.ttf") 
+}
+
+@font-face {
+    font-family: "Roboto Bold";
+    src: url("/assets/images/fonts/Roboto-Black.ttf") 
+}
+
 body {
+    font-family: 'Roboto';
     background-color: #f7f7f7;
     font-size: 1.2em;
 }
@@ -8,6 +19,7 @@ img {
 }
 
 h1 {
+    font-family: 'Roboto Bold';
     /* color: #486381; */
     /* color: #005EAB; */
     color: #004e94;
@@ -15,7 +27,7 @@ h1 {
 }
 
 h2 {
-
+    font-family: 'Roboto Bold';
     /* color: #486381; */
     color: #004e94;
     border-bottom-width: 2px !important;
@@ -25,6 +37,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'Roboto Bold';
     color: #004e94;
     margin-top: 1em;
 }
