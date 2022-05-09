@@ -8,10 +8,7 @@ tags: pages
 </div> #}
 
 <div class="grid grid-cols-12 gap-4">
-
-  <div class="hidden md:block invisible xl:visible xl:col-span-1"></div>
-
-  <div class="col-span-12 xl:col-span-10 shadow py-12" style="background-color:white;">
+  <div class="col-span-12 xl:col-span-8">
 
     <article class="{{ structure.g_pageWidth }}">
 
@@ -36,7 +33,19 @@ tags: pages
 
   </div>
 
-  <div class="hidden md:block invisible xl:visible xl:col-span-1"></div>
+  <div class="hidden xl:block xl:col-span-3">
 
-  
+    {# <div class="p-4 italic text-gray-600 border rounded-lg border-indego-300">
+      <h4>Sommaire</h4>  
+    </div> #}
+
+    <div class="p-4 italic border border-dark" style="margin-top:1em;">
+      <h4 class="border-b-2">Actualités</h4>  
+      <p>Nous déménageons!</p>
+    </div>
+
+    
+  </div>
+
+  <div class="hidden md:block invisible xl:visible xl:col-span-1"></div>
 </div>

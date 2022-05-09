@@ -1,3 +1,10 @@
+{% set currentPage = page.url.includes(eleventyNavigation.url) %}
+
+<div class="grid grid-cols-12 gap-4">
+  <div class="hidden md:block invisible xl:visible xl:col-span-1"></div>
+
+<div class="col-span-12 xl:col-span-10">
+
 {% set navPages = collections.pages | eleventyNavigation %}
 <nav x-data="{ open: false }" class="{{ colors.navCustom.barBg or colors.navDefault.barBg }} shadow nav-color relative">
   <div class="px-8 md:px-16 lg:px-32">
@@ -27,7 +34,7 @@
           {% endfor %}
         </div>
       </div>
-
+    
       {# Right side of Navbar  #}
 
       {# MOBILE MENU  #}
@@ -60,3 +67,7 @@
 
   </div>
 </nav>
+
+</div>
+<div class="hidden md:block invisible xl:visible xl:col-span-1"></div>
+</div>

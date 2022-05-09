@@ -28,7 +28,7 @@ footer {
 }
 
 .nav-color{
-    border-bottom: 1px solid #92abc6;
+    /*border-bottom: 1px solid #92abc6;*/
 }
 
 a.call-to-action {
@@ -60,9 +60,7 @@ a.call-to-action:hover {
 }
 
 .hero-img-2 {
-    width: 45%;
-    float: left;
-    margin-right: 2em;
+    width: 100%;
 }
 
 .hero-title {
@@ -86,9 +84,12 @@ a.call-to-action:hover {
 }
 
 .hero-img-right {
-    width: 35%;
+    width: 100%;
+    padding: 2.5em;
+    
+    /*
     float: right;
-    padding-right: 2em;
+    padding-right: 2em;*/
 }
 
 .width-100 {
@@ -98,3 +99,18 @@ a.call-to-action:hover {
 .border-dark {
     border-color: #92abc6;
 }
+
+@media only screen and (min-width: 600px) {
+    .hero-img-right {
+        width: 35%;
+        float: right;
+        padding-right: 2em;
+    }
+
+    .hero-img-2 {
+        width: 45%;
+        float: left;
+        margin-right: 2em;
+        border-width: 1px;
+    }
+  }

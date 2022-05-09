@@ -38,7 +38,7 @@ relative_prefix: ../
 
 ## Mandat et objectifs
 
-![Le Gapi]({{relative_prefix}}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2 .border}
+![Le Gapi]({{relative_prefix}}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2}
 
 ### Mandat
 
