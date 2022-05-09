@@ -1,7 +1,7 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
 relative_prefix: ""
-title: Bienvenue au GAPI
+# title: Bienvenue au GAPI
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 #author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
@@ -144,10 +144,13 @@ Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 19
 
 ![Le Gapi](assets/images/gapi/Illustration_01.jpg "Le Gapi"){.border .border-dark}
 
+Le GAPI intervient auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial.
 
-###### Le GAPI est un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987.{.hero-title}
+Peu importe le type d’union, la situation ou en contexte de rupture.
 
-Nous intervenons auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial, peu importe le type d’union ou la situation.{.hero-text}
+Le GAPI ça veut dire…Groupe d’Aide aux Personnes Impulsives.
+
+Nous sommes un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987.
 
 <!-- ![Le Gapi](assets/images/gapi/GAPI-LOGO-V-COUL.png "Le Gapi"){.hero-sub-img} -->
 
@@ -160,15 +163,32 @@ Nous intervenons auprès d’hommes adultes ayant des comportements violents dan
 - Développer des moyens pour gérer leurs conflits sans violence
 - Vivre des relations harmonieuses, égalitaires et positives avec leurs proches
 
-[En savoir plus](services){.call-to-action}
+<!-- [En savoir plus](services){.call-to-action} -->
 
-Au plan social et avec nos partenaires, nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
+### Au plan social et avec nos partenaires
 
-![Le Gapi](assets/images/gapi/outils.jpg "Le Gapi")
+Nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
+
+<!-- ![Le Gapi](assets/images/gapi/outils.jpg "Le Gapi") -->
 
 Nous travaillons de façon concertée avec plusieurs partenaires afin d’offrir des interventions ajustées, cohérentes et tenant compte de contextes parfois complexes.
 
 De plus, nous maintenons une implication active à divers projets de recherche dans une perspective d’amélioration des pratiques et des connaissances.
+
+
+Prêt à en discuter? À briser le silence?
+
+![Le Gapi](assets/images/gapi/silence.jpg "Le Gapi"){.hero-img-2}
+
+---{.clearAll}
+
+[Ça m'intéresse!](services){.call-to-action}
+
+
+
+
+
+
 
 
 
