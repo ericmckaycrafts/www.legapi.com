@@ -165,18 +165,7 @@ Nous sommes un organisme communautaire autonome qui dessert la grande région de
 
 <!-- [En savoir plus](services){.call-to-action} -->
 
-### Au plan social et avec nos partenaires
-
-Nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
-
-<!-- ![Le Gapi](assets/images/gapi/outils.jpg "Le Gapi") -->
-
-Nous travaillons de façon concertée avec plusieurs partenaires afin d’offrir des interventions ajustées, cohérentes et tenant compte de contextes parfois complexes.
-
-De plus, nous maintenons une implication active à divers projets de recherche dans une perspective d’amélioration des pratiques et des connaissances.
-
-
-Prêt à en discuter? À briser le silence?
+### Prêt à en discuter? À briser le silence?
 
 ![Le Gapi](assets/images/gapi/silence.jpg "Le Gapi"){.hero-img-2}
 

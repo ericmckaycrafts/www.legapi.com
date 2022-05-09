@@ -36,11 +36,21 @@ relative_prefix: ../
 - Une évaluation consciencieuse et approfondie de chaque situation.
 - Des interventions professionnelles.  
 
+---{.clearAll}
+
 ## Mandat et objectifs
 
-![Le Gapi]({{relative_prefix}}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2}
+Au plan social et avec nos partenaires, nous contribuons aussi à la sensibilisation aux violences conjugales et familiales ainsi qu’à l’aide aux hommes par diverses activités de prévention et de formation.
 
-### Mandat
+<!-- ![Le Gapi](assets/images/gapi/outils.jpg "Le Gapi") -->
+
+Nous travaillons de façon concertée avec plusieurs partenaires afin d’offrir des interventions ajustées, cohérentes et tenant compte de contextes parfois complexes.
+
+De plus, nous maintenons une implication active à divers projets de recherche dans une perspective d’amélioration des pratiques et des connaissances.
+
+<!-- ![Le Gapi]({{relative_prefix}}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-2} -->
+
+<!-- ### Mandat
 
 Le GAPI situe son mandat à même l’intervention sociale et individuelle, ceci afin d’inciter les hommes ayant des comportements violents et contrôlants à l’égard de leur partenaire à mettre en oeuvre des changements de comportements et d’attitudes envers cette dernière ou ce dernier. Parallèlement à ce qui précède, nous sommes appelés à travers des activités de sensibilisation, de formation, de conscientisation et de prévention, à contribuer au mouvement social visant la mise en place d’une société véhiculant des valeurs de non-violence (tolérance zéro) et d’égalité entre les sexes.
 
@@ -55,25 +65,33 @@ L’objectif ultime que le GAPI se doit d’atteindre est celui de contribuer, a
 - Sensibiliser la clientèle, les groupes et la communauté en général au problème social que constitue la violence conjugale;
 - Participer avec nos partenaires à la définition et à la distribution de services alternatifs et complémentaires en rapport avec la problématique de la violence conjugale;
 - Participer à la conscientisation populaire sur la nécessité de refondre les valeurs sociales sous-jacentes aux rapports de domination et de violence;
-- Établir et promouvoir des rapports égalitaires entre les hommes et les femmes ainsi que dans toutes les formes de relations amoureuses.
+- Établir et promouvoir des rapports égalitaires entre les hommes et les femmes ainsi que dans toutes les formes de relations amoureuses. -->
 
 ## L’équipe d’intervention
 
 Notre équipe est composée de professionnels issus de diverses spécialisations : travail social, criminologie, orientation, etc.
 
+Ils possèdent tous des formations spécifiques à notre domaine d’expertise.
+
 ![Le Gapi]({{relative_prefix}}assets/images/gapi/equipe.jpg "Le Gapi"){.border}
 
-Ils possèdent tous des formations spécifiques à notre domaine d’expertise:
+### Administration
 
-- Directrice générale, Valérie Meunier
-- Adjointe administrative, Marie-Ève Soucy
-- Coordonateur clinique, Olivier Lizotte-Audy
-- Intervenants(es) communautaires Jonathan Charrette
+- Valérie Meunier, directrice générale
+- Marie-Ève Soucy, adjointe administrative
+- Olivier Lizotte-Audy, coordonateur clinique
+
+### Intervenants(es) communautaires
+
+- Jonathan Charrette
 - Sabrina Gagnon, t.s.
 - Anne-Marie Grenier, t.s.
 - Hugo Savard-Dolbec, t.s.
 - Alexandre Zameck
-- Intervenants. es de groupe, Michael-John Blais, sexo.
+
+### Intervenants(es) de goupes
+
+- Michael-John Blais, sexo.
 - Louis-François Dallaire, t.s.
 - Florence Gagnon
 - Christine Jones-Vallée
