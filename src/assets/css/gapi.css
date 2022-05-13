@@ -15,7 +15,7 @@ body {
 }
 
 img {
-    width:85%;
+    width: 100%;
 }
 
 h1 {
@@ -40,15 +40,35 @@ h3 {
     font-family: 'Roboto Bold';
     color: #004e94;
     margin-top: 1em;
+    font-size: 1em;
 }
 
 h6 {
     margin-top: 1.5em;
+    color: #004e94;
+}
+
+.color-blue-gapi {
+    color: #004e94;
+}
+
+.color-yellow-gapi {
+    color: #FBB040;
 }
 
 footer {
     /* background-color: #3f6188; */
     background-color: #004e94;
+    font-size: 1em;
+}
+
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a {
+    font-size: 1em;
 }
 
 .nav-color{
@@ -88,7 +108,7 @@ a.call-to-action:hover {
 }
 
 .hero-title {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .hero-text {
@@ -116,6 +136,16 @@ a.call-to-action:hover {
     padding-right: 2em;*/
 }
 
+.img-silhouette {
+    width: 42%;
+    padding: 0;
+    float: right;
+    
+    /*
+    float: right;
+    padding-right: 2em;*/
+}
+
 .width-100 {
     width: 100%;
 }
@@ -136,5 +166,14 @@ a.call-to-action:hover {
         float: left;
         margin-right: 2em;
         border-width: 1px;
+    }
+
+    .hero-title {
+     font-size: 1.5em;
+     
+    }
+
+    h3 {
+        font-size: 1.25em;
     }
   }

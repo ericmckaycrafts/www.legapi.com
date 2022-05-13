@@ -19,7 +19,7 @@ pagination:
 relative_prefix: ../
 ---
 
-![Le Gapi]({{relative_prefix}}assets/images/gapi/silhouettes.jpg "Le Gapi"){.hero-img-right}
+![Le Gapi]({{relative_prefix}}assets/images/gapi/silhouettes.jpg "Le Gapi"){.img-silhouette}
 
 ## Principes
 
@@ -69,27 +69,27 @@ L’objectif ultime que le GAPI se doit d’atteindre est celui de contribuer, a
 
 ## L’équipe d’intervention
 
-Notre équipe est composée de professionnels issus de diverses spécialisations : travail social, criminologie, orientation, etc.
+Notre équipe est composée de professionnels issus de diverses spécialisations: travail social, criminologie, orientation.
 
 Ils possèdent tous des formations spécifiques à notre domaine d’expertise.
 
 ![Le Gapi]({{relative_prefix}}assets/images/gapi/equipe.jpg "Le Gapi"){.border}
 
-### Administration
+### Administration{.color-yellow-gapi}
 
 - Valérie Meunier, directrice générale
-- Marie-Ève Soucy, adjointe administrative
-- Olivier Lizotte-Audy, coordonateur clinique
+- Marie-Eve Soucy, adjointe administrative
+- Olivier Lizotte-Audy, coordonnateur clinique
 
-### Intervenants(es) communautaires
+### Intervenants(es) communautaires{.color-yellow-gapi}
 
-- Jonathan Charrette
+- Jonathan Charette
 - Sabrina Gagnon, t.s.
 - Anne-Marie Grenier, t.s.
 - Hugo Savard-Dolbec, t.s.
 - Alexandre Zameck
 
-### Intervenants(es) de goupes
+### Intervenants(es) de goupes{.color-yellow-gapi}
 
 - Michael-John Blais, sexo.
 - Louis-François Dallaire, t.s.

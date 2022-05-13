@@ -144,19 +144,19 @@ Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 19
 
 ![Le Gapi](assets/images/gapi/Illustration_01.jpg "Le Gapi"){.border .border-dark}
 
-Le GAPI intervient auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial.
+###### Le GAPI intervient auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial.{.hero-title}
 
 Peu importe le type d’union, la situation ou en contexte de rupture.
 
 Le GAPI ça veut dire…Groupe d’Aide aux Personnes Impulsives.
 
-Nous sommes un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis 1987.
+Nous sommes un organisme communautaire autonome qui dessert la grande région de Québec et de Portneuf depuis notre ouverture en 1987.
 
 <!-- ![Le Gapi](assets/images/gapi/GAPI-LOGO-V-COUL.png "Le Gapi"){.hero-sub-img} -->
 
 ---{.clearAll}
 
-### Nous aidons ces personnes à :
+### Nous aidons ces personnes à :{.color-yellow-gapi}
 
 - Reconnaître leur problématique
 - Arrêter leurs comportements et leurs attitudes de violence
@@ -165,13 +165,13 @@ Nous sommes un organisme communautaire autonome qui dessert la grande région de
 
 <!-- [En savoir plus](services){.call-to-action} -->
 
-### Prêt à en discuter? À briser le silence?
+### Prêt à en discuter? À briser le silence?{.color-yellow-gapi}
 
 ![Le Gapi](assets/images/gapi/silence.jpg "Le Gapi"){.hero-img-2}
 
 ---{.clearAll}
 
-[Ça m'intéresse!](services){.call-to-action}
+<!-- [Ça m'intéresse!](services){.call-to-action} -->
 
 
 

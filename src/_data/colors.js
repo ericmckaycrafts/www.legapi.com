@@ -37,9 +37,9 @@ module.exports = {
 	 */
 	navDefault: {
 		barBg: 'bg-white',
-		text: 'text-teal-500',
+		text: 'color-blue-gapi',
 		textActive: 'text-teal-600',
-		textHover: 'text-teal-600',
+		textHover: 'color-yellow-gapi',
 		textActiveBg: 'bg-teal-100',
 		textFocus: 'text-teal-500',
 		mobileBg: '',
@@ -60,9 +60,9 @@ module.exports = {
 	 */
 	navCustom: {
 		barBg: '',
-		text: 'text-gray-700',
+		text: 'color-blue-gapi',
 		textActive: 'text-gray-800',
-		textHover: 'text-gray-800',
+		textHover: 'color-yellow-gapi',
 		textActiveBg: 'bg-gray-100',
 		textFocus: 'text-gray-500',
 		mobileBg: '',
