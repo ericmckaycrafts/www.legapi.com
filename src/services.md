@@ -66,11 +66,11 @@ La démarche commence par 3 rencontres individuelles d’accueil-évaluation d�
 - Être motivé à poursuivre une démarche.
 - Être en mesure de fonctionner dans le cadre des services.
 
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/hero.jpg "Le Gapi"){.hero-img}
-
 Simplement à nous appeler pour prendre rendez-vous.
 
 Disponibles du lundi au vendredi entre 8h30 et 16h.
+
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/hero.jpg "Le Gapi"){.hero-img}
 
 Quelques plages de rendez-vous sont aussi disponibles en début de soirée.
 
@@ -79,8 +79,6 @@ Coût de 15$/rencontre pour les 2 premières rencontres. La suivante est à nos 
 Selon les besoins, une ou des rencontres supplémentaires pourraient s’ajouter.  
 
 Les rencontres se font majoritairement en présence, mais peuvent aussi se faire par Zoom.
-
-
 
 ---{.clearAll}
 
@@ -111,7 +109,7 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 
 Si tu as des questions par rapport à la cotisation, discutes-en avec ton intervenant. Il y a toujours des solutions!
 
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/outils.jpg "Le Gapi"){.img-60}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/outils.jpg "Le Gapi"){.img-75}
 
 ## Pour la région de Portneuf
 
@@ -147,7 +145,7 @@ C’est 2 services sont sans frais.
 
 ## Encore quelques besoins
 
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-right}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/vigilance.jpg "Le Gapi"){.img-silhouette .border-dark}
 
 Suite à la fin de la démarche de groupe, du soutien demeure disponible.
 

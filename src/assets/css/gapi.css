@@ -40,6 +40,10 @@ img.img-60 {
     width: 60%;
 }
 
+img.img-75 {
+    width: 75%;
+}
+
 h1 {
     font-family: 'Roboto Bold';
     /* color: #486381; */
@@ -169,6 +173,17 @@ a.call-to-action:hover {
     float: right;
     padding-right: 2em;*/
 }
+
+.img-vigilance {
+    width: 42%;
+    padding: 0;
+    float: right;
+    
+    /*
+    float: right;
+    padding-right: 2em;*/
+}
+vigilance
 
 .width-100 {
     width: 100%;
