@@ -94,13 +94,12 @@ nav {
 }
 
 nav a {
-    /*font-family: 'Roboto' !important;*/
-    font-family: 'Roboto Medium' !important;
+    font-family: 'Roboto Medium';
     font-size: 1em;
 }
 
-.nav-color{
-    /*border-bottom: 1px solid #92abc6;*/
+nav a.active {
+    color: #fbb040;
 }
 
 a.call-to-action {
