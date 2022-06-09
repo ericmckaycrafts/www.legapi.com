@@ -1,12 +1,12 @@
 {% set currentPage = page.url.includes(eleventyNavigation.url) %}
 
-<div class="grid grid-cols-12 gap-4" style="border-bottom: 1px solid #92abc6;">
+<div class="grid grid-cols-12 gap-4" style="background: #f3f3f3; border-bottom: 1px solid #92abc6;"> <!-- background: #9EADC1; -->
   <div class="hidden md:block invisible xl:visible xl:col-span-1"></div>
 
 <div class="col-span-12 xl:col-span-10">
 
 {% set navPages = collections.pages | eleventyNavigation %}
-<nav x-data="{ open: false }" class="{{ colors.navCustom.barBg or colors.navDefault.barBg }} nav-color relative">
+<nav x-data="{ open: false }" class=" nav-color relative"> <!-- {{ colors.navCustom.barBg or colors.navDefault.barBg }} -->
   <div class="px-8 md:px-16 lg:px-32">
     <div class="flex justify-between h-16">
       <div class="flex">
@@ -14,14 +14,14 @@
           {# small logo hidden on md and above #}
           <a aria-label="Mobile Logo" href="/" class="block md:hidden {{ colors.logoCustom.mobile or colors.logoDefault.mobile }} hover:{{ colors.logoCustom.hover or colors.logoDefault.hover }}" alt="Mobile Logo">
             {# {% svg "logo-mobile", "fill-current w-16 hover:{{ colors.logoCustom.hover or colors.logoDefault.hover }}", "The Mobile Logo" %} #}
-            <img src='{{relative_prefix}}assets/images/gapi/GAPI-LOGO-H-COUL.png' style="width:261px;">
+            <img src='{{relative_prefix}}assets/images/gapi/GAPI-LOGO-H-COUL.png' class="img-logo">
           </a>
           {# large logo hidden on small, block on md #}
           <a aria-label="Desktop Logo" href="{{ relative_prefix }}" class="hidden md:block {{ colors.logoCustom.desktop or colors.logoDefault.desktop }} hover:{{ colors.logoCustom.hover or colors.logoDefault.hover }}" alt="Desktop Logo">
             {# {% svg "logo", "fill-current h-8 hover:{{ colors.logoCustom.hover or colors.logoDefault.hover }}", "The Logo" %} #}
             <span style="font-size:2em; font-weight:bold;">
               <!-- Le Gapi -->
-              <img src='{{relative_prefix}}assets/images/gapi/GAPI-LOGO-H-COUL.png' style="width:261px;">
+              <img src='{{relative_prefix}}assets/images/gapi/GAPI-LOGO-H-COUL.png' class="img-logo">
               </span>
           </a>
         </div>

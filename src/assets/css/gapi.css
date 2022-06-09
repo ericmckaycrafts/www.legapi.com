@@ -174,16 +174,9 @@ a.call-to-action:hover {
     padding-right: 2em;*/
 }
 
-.img-vigilance {
-    width: 42%;
-    padding: 0;
-    float: right;
-    
-    /*
-    float: right;
-    padding-right: 2em;*/
+.img-logo {
+    width:261px;
 }
-vigilance
 
 .width-100 {
     width: 100%;
@@ -194,6 +187,10 @@ vigilance
 }
 
 @media only screen and (min-width: 600px) {
+    .img-logo {
+        width:341px;
+    }
+
     .hero-img-right {
         width: 35%;
         float: right;
