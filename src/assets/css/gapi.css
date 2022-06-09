@@ -28,6 +28,18 @@ img {
     width: 100%;
 }
 
+img.img-40 {
+    width: 40%;
+}
+
+img.img-50 {
+    width: 50%;
+}
+
+img.img-60 {
+    width: 60%;
+}
+
 h1 {
     font-family: 'Roboto Bold';
     /* color: #486381; */

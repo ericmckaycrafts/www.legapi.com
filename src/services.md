@@ -48,7 +48,7 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/hero.jpg "Le Gapi"){.hero-img-right}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/changements.jpg "Le Gapi"){.hero-img-right}
 
 ## L’accueil-évaluation
 
@@ -66,9 +66,11 @@ La démarche commence par 3 rencontres individuelles d’accueil-évaluation d�
 - Être motivé à poursuivre une démarche.
 - Être en mesure de fonctionner dans le cadre des services.
 
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/hero.jpg "Le Gapi"){.hero-img}
+
 Simplement à nous appeler pour prendre rendez-vous.
 
-Disponibles du lundi au vendredi entre 8h30 et 16h. 
+Disponibles du lundi au vendredi entre 8h30 et 16h.
 
 Quelques plages de rendez-vous sont aussi disponibles en début de soirée.
 
@@ -77,6 +79,10 @@ Coût de 15$/rencontre pour les 2 premières rencontres. La suivante est à nos 
 Selon les besoins, une ou des rencontres supplémentaires pourraient s’ajouter.  
 
 Les rencontres se font majoritairement en présence, mais peuvent aussi se faire par Zoom.
+
+
+
+---{.clearAll}
 
 ## Le groupe
 
@@ -104,6 +110,8 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 - Les frais sont remboursables par certaines assurances et nous pouvons vous fournir un reçu pour fin d’impôts.
 
 Si tu as des questions par rapport à la cotisation, discutes-en avec ton intervenant. Il y a toujours des solutions!
+
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/outils.jpg "Le Gapi"){.img-60}
 
 ## Pour la région de Portneuf
 
@@ -139,6 +147,8 @@ C’est 2 services sont sans frais.
 
 ## Encore quelques besoins
 
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/vigilance.jpg "Le Gapi"){.hero-img-right}
+
 Suite à la fin de la démarche de groupe, du soutien demeure disponible.
 
 ### Rencontre de suivi post-groupe
@@ -150,6 +160,7 @@ Nous recontactons aussi tous les participants 6 mois après leur fin de démarch
 
 Pour les participants ayant complété avec succès la démarche de base.
 Ce groupe ouvert est là pour t’aider à faire face à une période plus difficile, pour consolider les acquis ou simplement pour conserver sa vigilance.
+
 Des frais fixes de 20$/rencontre sont demandés.
 
 À tous les 1er et 3e mardis du mois.
@@ -170,7 +181,7 @@ Groupe fermé de 12 rencontres s’adressant aux pères ou beaux-pères voulant 
 
 ## Autres aides et références
 
-L’équipe d’intervention peut t’aider à trouver diverses ressources pour combler des besoins autres et divers pour toi ou pour tes proches. N’hésite pas à demander.
+L’équipe d’intervention peut t’aider à trouver diverses ressources pour combler des autres besoins pour toi ou pour tes proches. N’hésite pas à demander!
 
 <!-- Voici tout de même quelques ressources :
 
@@ -184,16 +195,16 @@ L’équipe d’intervention peut t’aider à trouver diverses ressources pour 
 
 La démarche au GAPI suscite souvent beaucoup d’espoir ou de questions pour les proches. 
 Les informations relatives au dossier de chaque participant sont confidentielles. Nous prenons cependant le temps d’écouter et de renseigner les proches qui souhaitent mieux comprendre ou obtenir eux-mêmes de l’aide. 
-Une rencontre d’informations est aussi offerte sur une base volontaire pour les partenaires ou ex-partenaires de nos participants afin de les informer sur la problématique, nos services ainsi que les diverses ressources d’aide disponibles. N’hésitez pas à nous contacter si vous en ressentez le besoin. 
+Une rencontre d’informations est aussi offerte sur une base volontaire pour les partenaires ou ex-partenaires de nos participants afin de les informer sur la problématique, nos services ainsi que les diverses ressources d’aide disponibles. N’hésitez pas à nous contacter si vous en ressentez le besoin.
 
 ### Pour les professionnels
 
 Diverses activités de sensibilisation ou de formation peuvent être offertes auprès de la population, d’étudiants ou de professionnels.
 
-- Sensibilisation à la violence dans les relations
-- Sensibilisation à la violence sexuelle et aux saines relations amoureuses
-- Conférences ou formation sur l’intervention auprès des auteurs de violence conjugale
-- Formation à l’appréciation du risque d’homicide conjugal et à l’intervention auprès des auteurs
+- Sensibilisation à la violence dans les relations.
+- Sensibilisation à la violence sexuelle et aux saines relations amoureuses.
+- Conférences ou formation sur l’intervention auprès des auteurs de violence conjugale.
+- Formation à l’appréciation du risque d’homicide conjugal et à l’intervention en contexte de dangerosité.
 
 Contactez-nous pour discuter de votre projet et des adaptations possibles.
 Les frais applicables varient selon les demandes.

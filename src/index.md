@@ -142,6 +142,8 @@ Le GAPI est un organisme communautaire autonome, sans but lucratif, fondé en 19
 | ------- | ------- |
 |  | row1 col2 | -->
 
+![Le Gapi](assets/images/gapi/bienvenue.png "Le Gapi"){.img-40}
+
 ![Le Gapi](assets/images/gapi/Illustration_01.jpg "Le Gapi"){.border .border-dark}
 
 ###### Le GAPI intervient auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial.{.hero-title}
@@ -167,7 +169,7 @@ Nous sommes un organisme communautaire autonome qui dessert la grande région de
 
 ### Prêt à en discuter? À briser le silence?{.color-yellow-gapi}
 
-![Le Gapi](assets/images/gapi/silence.jpg "Le Gapi"){.hero-img-2}
+![Le Gapi](assets/images/gapi/silence.jpg "Le Gapi"){.hero-img-2 border .border-dark}
 
 ---{.clearAll}
 
