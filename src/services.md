@@ -48,7 +48,7 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/changements.jpg "Le Gapi"){.hero-img-right}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/changements.jpg "Le Gapi"){.hero-img-right .img-changement}
 
 ## L’accueil-évaluation
 
@@ -104,7 +104,7 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 - Chacun de nos 8 groupes de base est en roulement continu à l’année.
 - Lorsqu’une place est vacante suite à une fin de démarche ou à une interruption, celle-ci est remplacée par un nouveau participant la semaine suivante.
 - Des groupes sont offerts en soirée du lundi au jeudi et un autre a lieu le mardi matin.
-- Les coûts par rencontre sont déterminés à l’accueil-évaluation avec l’intervenant à partir d’une échelle de contribution variant entre 10$ et 55$ pa rencontre.
+- Les coûts par rencontre sont déterminés à l’accueil-évaluation avec l’intervenant à partir d’une échelle de contribution variant entre 10$ et 55$ par rencontre.
 - Les frais sont remboursables par certaines assurances et nous pouvons vous fournir un reçu pour fin d’impôts.
 
 Si tu as des questions par rapport à la cotisation, discutes-en avec ton intervenant. Il y a toujours des solutions!
@@ -179,7 +179,7 @@ Groupe fermé de 12 rencontres s’adressant aux pères ou beaux-pères voulant 
 
 ## Autres aides et références
 
-L’équipe d’intervention peut t’aider à trouver diverses ressources pour combler des autres besoins pour toi ou pour tes proches. N’hésite pas à demander!
+L’équipe d’intervention peut t’aider à trouver diverses ressources pour combler d'autres besoins pour toi ou pour tes proches. N’hésite pas à demander!
 
 <!-- Voici tout de même quelques ressources :
 
@@ -191,8 +191,10 @@ L’équipe d’intervention peut t’aider à trouver diverses ressources pour 
 
 ### Pour les proches
 
-La démarche au GAPI suscite souvent beaucoup d’espoir ou de questions pour les proches. 
-Les informations relatives au dossier de chaque participant sont confidentielles. Nous prenons cependant le temps d’écouter et de renseigner les proches qui souhaitent mieux comprendre ou obtenir eux-mêmes de l’aide. 
+La démarche au GAPI suscite souvent beaucoup d’espoir ou de questions pour les proches.
+
+Les informations relatives au dossier de chaque participant sont confidentielles. Nous prenons cependant le temps d’écouter et de renseigner les proches qui souhaitent mieux comprendre ou obtenir eux-mêmes de l’aide.
+
 Une rencontre d’informations est aussi offerte sur une base volontaire pour les partenaires ou ex-partenaires de nos participants afin de les informer sur la problématique, nos services ainsi que les diverses ressources d’aide disponibles. N’hésitez pas à nous contacter si vous en ressentez le besoin.
 
 ### Pour les professionnels
