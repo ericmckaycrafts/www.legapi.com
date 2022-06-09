@@ -8,6 +8,16 @@
     src: url("/assets/images/fonts/Roboto-Black.ttf") 
 }
 
+@font-face {
+    font-family: "Roboto Medium";
+    src: url("/assets/images/fonts/Roboto-Medium.ttf") 
+}
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url("/assets/images/fonts/RobotoCondensed-Regular.ttf") 
+}
+
 body {
     font-family: 'Roboto';
     /*background-color: #f7f7f7;*/
@@ -68,6 +78,8 @@ nav {
 }
 
 nav a {
+    /*font-family: 'Roboto' !important;*/
+    font-family: 'Roboto Medium' !important;
     font-size: 1em;
 }
 

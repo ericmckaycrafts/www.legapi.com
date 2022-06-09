@@ -50,7 +50,7 @@ No! I was ashamed to be SEEN with you. I like being with you. First place chick 
 
 ![Le Gapi]({{ relative_prefix }}assets/images/gapi/hero.jpg "Le Gapi"){.hero-img-right}
 
-### L’accueil-évaluation
+## L’accueil-évaluation
 
 La démarche commence par 3 rencontres individuelles d’accueil-évaluation d’environ 1h30 avec un intervenant.
 
@@ -59,16 +59,18 @@ La démarche commence par 3 rencontres individuelles d’accueil-évaluation d�
 - Pour débuter la mise en action.
 - Pour te donner l’occasion de poser tes questions et voir si le service te convient.
 
-### Nos critères :
+### Nos critères{.color-yellow-gapi}
 
-- Reconnaître exercer de la violence envers ses proches
-- Démontrer une responsabilisation face à ses comportements et attitudes
-- Être motivé à poursuivre une démarche
-- Être en mesure de fonctionner dans le cadre des services
+- Reconnaître exercer de la violence envers ses proches.
+- Démontrer une responsabilisation face à ses comportements et attitudes.
+- Être motivé à poursuivre une démarche.
+- Être en mesure de fonctionner dans le cadre des services.
 
 Simplement à nous appeler pour prendre rendez-vous.
 
-Disponibles du lundi au vendredi entre 8h30 et 16h. Quelques plages de rendez-vous sont aussi disponibles en début de soirée.
+Disponibles du lundi au vendredi entre 8h30 et 16h. 
+
+Quelques plages de rendez-vous sont aussi disponibles en début de soirée.
 
 Coût de 15$/rencontre pour les 2 premières rencontres. La suivante est à nos frais!
 
@@ -85,38 +87,38 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 - Pour prendre conscience des impacts que cela laisse pour chacun.
 - Pour mieux identifier ce que tu vis et en arriver à t’affirmer plus sainement.
 - Pour partager avec d’autres hommes vivant des situations semblables, s’entraider et trouver ensemble des solutions.
-- Pour en venir à vivre en cohérence avec tes valeurs.
+- Pour vivre en cohérence avec tes valeurs, établir des relations saines et satisfaisantes avec tes proches.
 
 ---{.clearAll}
 
 ![Le Gapi]({{ relative_prefix }}assets/images/gapi/groupe.jpg "Le Gapi"){.border .border-dark}
 
-### La démarche de groupe, c’est…
+### La démarche de groupe, c’est…{.color-yellow-gapi}
 
 - 20 rencontres à raison d’un groupe/semaine de 2h30 pour une démarche complétée (une prolongation est possible).
-- 8 participants maximum et c’est coanimé par 2 intervenants
-- Chacun de nos 8 groupes est en roulement continu à l’année.
-- Lorsqu’une place est vacante suite à une fin de démarche ou une interruption, celle-ci est remplacée par un nouveau participant la semaine suivante.
-- Des groupes sont offerts en soirée du lundi au jeudi et un autre le mardi matin.
-- Les coûts par rencontre sont déterminés à l’accueil-évaluation avec l’intervenant à partir d’une échelle de contribution variant entre 10$ et 55$.
-- Les frais sont remboursables par certaines assurances.
+- 8 participants maximum et c’est coanimé par 2 intervenants.
+- Chacun de nos 8 groupes de base est en roulement continu à l’année.
+- Lorsqu’une place est vacante suite à une fin de démarche ou à une interruption, celle-ci est remplacée par un nouveau participant la semaine suivante.
+- Des groupes sont offerts en soirée du lundi au jeudi et un autre a lieu le mardi matin.
+- Les coûts par rencontre sont déterminés à l’accueil-évaluation avec l’intervenant à partir d’une échelle de contribution variant entre 10$ et 55$ pa rencontre.
+- Les frais sont remboursables par certaines assurances et nous pouvons vous fournir un reçu pour fin d’impôts.
 
-Si tu as des questions à ce niveau ou par rapport à la cotisation, discutes-en avec ton intervenant. Il y a souvent des solutions!
+Si tu as des questions par rapport à la cotisation, discutes-en avec ton intervenant. Il y a toujours des solutions!
 
 ## Pour la région de Portneuf
 
 Les rencontres d’accueil-évaluation ainsi qu’un groupe sont disponibles directement dans la région de Portneuf.
 
-Les rencontres d’accueil-évaluation sont possibles dans les 4 principaux points de service de CLSC de la région soit :
+Les rencontres d’accueil-évaluation sont possibles dans les 4 principaux points de service de la région soit&nbsp;:
 
 - St-Raymond
 - Pont-Rouge
 - Donnacona
-- St-Marc-des-Carrières.
+- St-Marc-des-Carrières
 
 La démarche de groupe a lieu les mardis soirs à Pont-Rouge.
 
-Pour prendre rendez-vous, simplement à nous contacter au bureau de Québec en mentionnant que vous êtes dans la région de Portneuf.  
+Pour prendre rendez-vous, simplement nous contacter au bureau de Québec en mentionnant que des services sont souhaités dans la région de Portneuf.  
 
 ## En attendant
 
@@ -134,18 +136,6 @@ Ton intervenant fera aussi un suivi téléphonique ponctuellement avec toi pour 
 
 Un groupe Zoom est mis à ta disposition à tous les mardis soirs pendant ta période d’attente. La participation est libre et volontaire, mais c’est l’occasion idéale de te familiariser avec le groupe et de rester actif dans ton cheminement.
 C’est 2 services sont sans frais.
-
-### Groupe PAPA
-
-Pour les participants ayant complété avec succès la démarche de base.
-
-Groupe fermé de 12 rencontres s’adressant aux pères ou beaux-pères voulant aller plus loin dans leur cheminement concernant la violence exercée envers les enfants ou à laquelle ils ont été exposés:
-
-- Pour mieux cerner les comportements, les attitudes de violence et leurs impacts.
-- Pour se centrer sur des solutions tenant compte des besoins et du mieux-être des enfants.
-- Pour jouer un rôle plus sain comme père, dans une volonté de reconstruction des liens avec les enfants et leur mère. 
-
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi")
 
 ## Encore quelques besoins
 
@@ -165,6 +155,18 @@ Des frais fixes de 20$/rencontre sont demandés.
 À tous les 1er et 3e mardis du mois.
 
 Inscription préalable avant chaque rencontre.
+
+### Groupe PAPA
+
+Pour les participants ayant complété avec succès la démarche de base.
+
+Groupe fermé de 12 rencontres s’adressant aux pères ou beaux-pères voulant aller plus loin dans leur cheminement concernant la violence exercée envers les enfants ou à laquelle ils ont été exposés:
+
+- Pour mieux cerner les comportements, les attitudes de violence et leurs impacts.
+- Pour se centrer sur des solutions tenant compte des besoins et du mieux-être des enfants.
+- Pour jouer un rôle plus sain comme père, dans une volonté de reconstruction des liens avec les enfants et leur mère. 
+
+<!-- ![Le Gapi]({{ relative_prefix }}assets/images/gapi/GAPI-LOGO-H-COUL.png "Le Gapi") -->
 
 ## Autres aides et références
 
