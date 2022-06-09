@@ -10,7 +10,7 @@
 
 body {
     font-family: 'Roboto';
-    background-color: #f7f7f7;
+    /*background-color: #f7f7f7;*/
     font-size: 1.2em;
 }
 
@@ -58,7 +58,7 @@ h6 {
 
 footer {
     /* background-color: #3f6188; */
-    background-color: #004e94;
+    /*background-color: #004e94;*/
     font-size: 1em;
 }
 
