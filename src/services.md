@@ -48,7 +48,7 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature. -->
 
-![Le Gapi]({{ relative_prefix }}assets/images/gapi/changements.jpg "Le Gapi"){.hero-img-right .img-changement}
+![Le Gapi]({{ relative_prefix }}assets/images/gapi/changements.jpg "Le Gapi"){.img-silhouette .img-changement}
 
 ## L’accueil-évaluation
 
