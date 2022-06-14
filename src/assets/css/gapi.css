@@ -231,10 +231,6 @@ a.call-to-action:hover {
     img.img-40 {
         width: 40%;
     }
-    .img-logo {
-        width:341px;
-    }
-
     img.img-75 {
         width: 75%;
     }
@@ -244,4 +240,10 @@ a.call-to-action:hover {
         height: 175%
     }
     
+  }
+
+  @media only screen and (min-width: 1200px) {
+    .img-logo {
+        width:341px;
+    }
   }

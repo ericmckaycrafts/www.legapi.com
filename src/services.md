@@ -104,8 +104,8 @@ Il s’agit du cœur de ta démarche et de notre mode d’intervention privilég
 - Chacun de nos 8 groupes de base est en roulement continu à l’année.
 - Lorsqu’une place est vacante suite à une fin de démarche ou à une interruption, celle-ci est remplacée par un nouveau participant la semaine suivante.
 - Des groupes sont offerts en soirée du lundi au jeudi et un autre a lieu le mardi matin.
-- Les coûts par rencontre sont déterminés à l’accueil-évaluation avec l’intervenant à partir d’une échelle de contribution variant entre 10$ et 55$ par rencontre.
-- Les frais sont remboursables par certaines assurances et nous pouvons vous fournir un reçu pour fin d’impôts.
+- Les coûts sont déterminés à l’accueil-évaluation avec l’intervenant à partir d’une échelle de contribution variant entre 10$ et 55$ par rencontre.
+- Les frais sont remboursables par certaines assurances et nous pouvons fournir un reçu pour fin d’impôts.
 
 Si tu as des questions par rapport à la cotisation, discutes-en avec ton intervenant. Il y a toujours des solutions!
 
@@ -141,7 +141,7 @@ Ton intervenant fera aussi un suivi téléphonique ponctuellement avec toi pour 
 ### Groupe Zoom
 
 Un groupe Zoom est mis à ta disposition à tous les mardis soirs pendant ta période d’attente. La participation est libre et volontaire, mais c’est l’occasion idéale de te familiariser avec le groupe et de rester actif dans ton cheminement.
-C’est 2 services sont sans frais.
+Ces deux services sont sans frais.
 
 ## Encore quelques besoins
 
@@ -157,13 +157,11 @@ Nous recontactons aussi tous les participants 6 mois après leur fin de démarch
 ### Groupe de 2e phase
 
 Pour les participants ayant complété avec succès la démarche de base.
-Ce groupe ouvert est là pour t’aider à faire face à une période plus difficile, pour consolider les acquis ou simplement pour conserver sa vigilance.
+Ce groupe ouvert est là pour t’aider à faire face à une période plus difficile, pour consolider tes acquis ou simplement pour conserver ta vigilance.
 
-Des frais fixes de 20$/rencontre sont demandés.
+Des frais fixes de 20&nbsp;$/rencontre sont demandés.
 
-À tous les 1er et 3e mardis du mois.
-
-Inscription préalable avant chaque rencontre.
+À tous les 1er et 3e mardis du mois. Inscription préalable avant chaque rencontre.
 
 ### Groupe PAPA
 
