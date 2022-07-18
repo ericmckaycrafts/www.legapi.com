@@ -2,6 +2,7 @@
 relative_prefix: ""
 # title: Bienvenue au GAPI
 layout: page
+url: accueil
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
@@ -10,9 +11,9 @@ eleventyNavigation: # Required if want to display in Main Nav Bar
   url: index.html
 ---
 
-![Le Gapi](assets/images/gapi/bienvenue.png "Le Gapi"){.img-40}
+![Le Gapi](assets/images/gapi/bienvenue.png "Bienvenue au GAPI"){.img-40}
 
-![Le Gapi](assets/images/gapi/Illustration_01.jpg "Le Gapi")
+![Le Gapi](assets/images/gapi/Illustration_01.jpg "Au Gapi, vous n'êtes pas seuls.")
 
 ###### Le GAPI intervient auprès d’hommes adultes ayant des comportements violents dans un contexte conjugal ou familial.{.hero-title}
 
